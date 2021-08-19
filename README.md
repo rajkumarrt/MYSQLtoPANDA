@@ -34,16 +34,15 @@ Query OK, 1 row affected (0.13 sec)
 <b> Visual studio code </b>
 <p> py -m pip install pymysql
 py -m pip install mysql-connector-python </p>
-
 <b> Linux </b>
 <p> pip install pymysql
 pip install mysql-connector-python </p>
 </code></pre></div>
 
 
-<p>Ref: <a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code1 - Data frame </a>&nbsp;</p>
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dataframe.py"> Code1 - Data frame </a>&nbsp;</p>
   
-Code2 - Dictonary
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dict.py"> Code2 - Dictonary </a>&nbsp;</p>
   
-Code3 - Data to CSV
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code3 - Data to CSV </a>&nbsp;</p>
   
