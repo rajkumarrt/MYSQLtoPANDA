@@ -39,15 +39,8 @@ py -m pip install mysql-connector-python </p>
 pip install mysql-connector-python </p>
 </code></pre></div>
 
-
-<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dataframe.py"> Code1 - Data frame </a>&nbsp;</p>
-  
-<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dict.py"> Code2 - Dictonary </a>&nbsp;</p>
-  
-<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code3 - Data to CSV </a>&nbsp;</p>
-
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content=" Note: Exporting Data "><pre><code>
-<p>
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="  "><pre><code>
+<p> Note: Exporting Data
 # df.to_csv(filename) -> Writes to a CSV file
 # df.to_excel(filename) -> Writes on an Excel file
 # df.to_sql(table_name, connection_object) -> Writes to a SQL table
@@ -56,4 +49,8 @@ pip install mysql-connector-python </p>
 # df.to_clipboard() -> Writes to the clipboard
   </p> </code></pre></div>
 
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dataframe.py"> Code1 - Data frame </a>&nbsp;</p>
+ 
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dict.py"> Code2 - Dictonary </a>&nbsp;</p>
   
+<p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code3 - Data to CSV </a>&nbsp;</p>
