@@ -1,7 +1,7 @@
 # MYSQLtoPANDA
 Mysql to Panda connectivity 
 
-1> MySQL install <h1>
+<h3> MySQL install </h3>
   [MySQL Downlaod] (https://dev.mysql.com/downloads/installer/)
   <p> create DB and table </p>
   
