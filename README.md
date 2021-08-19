@@ -1,9 +1,7 @@
 # MYSQLtoPANDA
 Mysql to Panda connectivity 
 
-<h3> MySQL install </h3>
-  [MySQL Downlaod] (https://dev.mysql.com/downloads/installer/)
-  <p> create DB and table </p>
+<h5> MySQL install </h5>   [MySQL Downlaod] (https://dev.mysql.com/downloads/installer/)
   
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="MYSQL Managment"><pre><code>
 <b> DB Creation </b>
@@ -38,7 +36,6 @@ py -m pip install mysql-connector-python </p>
 <p> pip install pymysql
 pip install mysql-connector-python </p>
 </code></pre></div>
-
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="  "><pre><code>
 <p> Note: Exporting Data
 # df.to_csv(filename) -> Writes to a CSV file
@@ -48,7 +45,6 @@ pip install mysql-connector-python </p>
 # df.to_html(filename) -> Saves as an HTML table
 # df.to_clipboard() -> Writes to the clipboard
   </p> </code></pre></div>
-
 <p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dataframe.py"> Code1 - Data frame </a>&nbsp;</p>
  
 <p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dict.py"> Code2 - Dictonary </a>&nbsp;</p>
