@@ -32,15 +32,16 @@ Query OK, 1 row affected (0.13 sec)
 
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="Package configuration"><pre><code>
 <b> Visual studio code </b>
-py -m pip install pymysql
-py -m pip install mysql-connector-python
+<p> py -m pip install pymysql
+py -m pip install mysql-connector-python </p>
 
 <b> Linux </b>
-pip install pymysql
-pip install mysql-connector-python
+<p> pip install pymysql
+pip install mysql-connector-python </p>
 </code></pre></div>
 
-Code1 - Data frame
+
+<p>Ref: <a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code1 - Data frame </a>&nbsp;</p>
   
 Code2 - Dictonary
   
