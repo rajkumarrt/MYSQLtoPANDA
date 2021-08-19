@@ -45,4 +45,14 @@ pip install mysql-connector-python </p>
 <p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/mysql_dict.py"> Code2 - Dictonary </a>&nbsp;</p>
   
 <p><a href="https://github.com/rajkumarrt/MYSQLtoPANDA/blob/main/MYSQL_CSV.py"> Code3 - Data to CSV </a>&nbsp;</p>
+
+<p> Note: Exporting Data 
+# df.to_csv(filename) -> Writes to a CSV file
+# df.to_excel(filename) -> Writes on an Excel file
+# df.to_sql(table_name, connection_object) -> Writes to a SQL table
+# df.to_json(filename) -> Writes to a file in JSON format
+# df.to_html(filename) -> Saves as an HTML table
+# df.to_clipboard() -> Writes to the clipboard
+  </p>
+
   
